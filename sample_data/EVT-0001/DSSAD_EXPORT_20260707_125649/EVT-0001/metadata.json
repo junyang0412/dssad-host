@@ -1,0 +1,22 @@
+{
+  "id": "EVT-0001",
+  "name": "碰撞事件_001_20240712140015",
+  "event_type": "碰撞事件",
+  "event_type_code": "COL",
+  "is_locked": true,
+  "start_time": "2024-07-12T14:00:15",
+  "end_time": "2024-07-12T14:00:30",
+  "latitude": 31.230416,
+  "longitude": 121.473718,
+  "integrity_check": "完整",
+  "is_tampered": false,
+  "video_files": [
+    "front.mp4"
+  ],
+  "non_video_files": [
+    "data.json"
+  ],
+  "camera_channels": [
+    "前视摄像头"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "id": "EVT-0002",
+  "name": "碰撞风险事件_002_20240712140522",
+  "event_type": "碰撞风险事件",
+  "event_type_code": "CRK",
+  "is_locked": false,
+  "start_time": "2024-07-12T14:05:22",
+  "end_time": "2024-07-12T14:05:37",
+  "latitude": 31.231205,
+  "longitude": 121.474509,
+  "integrity_check": "完整",
+  "is_tampered": false,
+  "video_files": ["front.mp4"],
+  "non_video_files": ["data.json"],
+  "camera_channels": ["前视摄像头"]
+}
